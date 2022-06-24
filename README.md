@@ -1,12 +1,12 @@
 Aula da Alura
 
- Atualizacoes do dia 2022.06.23   
-    Criando do site da Barbearia "Alura"
-    Informamos a linguagem da pagina
-    Padronizamos com o dicionario UTF-8
-    Indicamos o nome da pagina no HEAD
-    Separamos o HEAD e o BODY
-    Usamos o STYLE com FONT-SIZE e TEXT-ALIGN
-    Linkamos a pagina CSS
-    Iniciamos a estilizacao do texto
+ <h1>Atualizacoes do dia 2022.06.23 </h1>  
+    <p>Criando do site da Barbearia "Alura"</p>
+    <p>Informamos a linguagem da pagina</p>
+    <p>Padronizamos com o dicionario UTF-8</p>
+    <p>Indicamos o nome da pagina no HEAD</p>
+    <p>Separamos o HEAD e o BODY</p>
+    <p>Usamos o STYLE com FONT-SIZE e TEXT-ALIGN</p>
+    <p>Linkamos a pagina CSS</p>
+    <p>Iniciamos a estilizacao do texto</p>
 
