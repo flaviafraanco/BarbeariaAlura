@@ -11,11 +11,11 @@ Aula da Alura
     <p>Iniciamos a estilizacao do texto</p>
 
    Atualizacoes do dia 2022.06.27 
-      Sincronizar alteracoes com git pull
-      Identificacao de tag no CSS
-      Adicionando e configurando imagem
-      Listas ul - ol - li
-      adicinando e estilizando classes
-      Criando div
-      Blocos de conteudo
-      Finalizando
+      <ul>Sincronizar alteracoes com git pull</ul>
+      <ul>Identificacao de tag no CSS</ul>
+      <ul>Adicionando e configurando imagem</ul>
+      <ul>Listas ul - ol - li</ul>
+      <ul>adicinando e estilizando classes</ul>
+      <ul>Criando div</ul>
+      <ul>Blocos de conteudo</ul>
+      <ul>Finalizando</ul>
