@@ -10,3 +10,12 @@ Aula da Alura
     Linkamos a pagina CSS
     Iniciamos a estilizacao do texto
 
+   Atualizacoes do dia 2022.06.27 
+      Sincronizar alteracoes com git pull
+      Identificacao de tag no CSS
+      Adicionando e configurando imagem
+      Listas ul - ol - li
+      adicinando e estilizando classes
+      Criando div
+      Blocos de conteudo
+      Finalizando a parte 1 do curso de HTML e CSS
