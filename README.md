@@ -1,6 +1,23 @@
-Aula da Alura
 
- <h1>Atualizacoes do dia 2022.06.23 </h1>  
+  
+   <h1>Atualizações do dia 2022.06.29 </h1>
+      <ul>Criação da nova pagina com arq. css e html</ul>
+      <ul>Add pasta img para organizar imagens</ul>
+      <ul>Estilizando inicio da pagina (cabeçario)</ul>
+      <ul>Posicionamentos static, relative e absolute</ul>
+      <ul></ul>
+
+   <h1>Atualizações do dia 2022.06.27 </h1>
+      <ul>Sincronizar alteracoes com git pull</ul>
+      <ul>Identificação de tag no CSS</ul>
+      <ul>Adicionando e configurando imagem</ul>
+      <ul>Listas ul - ol - li</ul>
+      <ul>Adicinando e estilizando classes</ul>
+      <ul>Criando div</ul>
+      <ul>Blocos de conteudo</ul>
+      <ul>Finalizando</ul>
+
+ <h1>Atualizações do dia 2022.06.23 </h1>  
      <ul>Criando do site da Barbearia "Alura"</ul>
      <ul>Informamos a linguagem da pagina</ul>
      <ul>Padronizamos com o dicionario UTF-8</ul>
@@ -10,12 +27,4 @@ Aula da Alura
      <ul>Linkamos a pagina CSS</ul>
      <ul>Iniciamos a estilizacao do texto</ul>
 
-   <h1>Atualizacoes do dia 2022.06.27 </h1>
-      <ul>Sincronizar alteracoes com git pull</ul>
-      <ul>Identificacao de tag no CSS</ul>
-      <ul>Adicionando e configurando imagem</ul>
-      <ul>Listas ul - ol - li</ul>
-      <ul>adicinando e estilizando classes</ul>
-      <ul>Criando div</ul>
-      <ul>Blocos de conteudo</ul>
-      <ul>Finalizando</ul>
+
