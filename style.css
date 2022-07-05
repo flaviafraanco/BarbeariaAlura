@@ -1,7 +1,37 @@
 body{
 
 }
+header{
+    background: #bbbbbb;
+    padding: 20px 0;
+}
 
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 50px;
+}
+nav li {
+    display:inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
 #banner {
     width: 100%;
 }
