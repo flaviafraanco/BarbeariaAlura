@@ -1,3 +1,12 @@
+   <h1>Atualizações do dia 2022.07.14 </h1>
+      <ul>Atualização do codigo</ul>
+      <ul>Acessibilidade do formulario</ul>
+      <ul></ul>
+
+   <h1>Atualizações do dia 2022.07.05 </h1>
+      <ul>Criação da pagina contato</ul>
+      <ul>Organizando codigo</ul>
+      <ul>Criação de formulario</ul>
 
    <h1>Atualizações do dia 2022.07.04 </h1>
       <ul>Bordas</ul>
