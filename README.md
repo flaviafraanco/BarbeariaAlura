@@ -1,7 +1,18 @@
+   <h1>Atualizações do dia 2022.07.20</h1>
+      <ul>Aplicando conhecimentos na pagina inicial</ul>
+      <ul>flutuação dos elementos e como modificá-la, com a propriedade float do CSS</ul>
+      <ul>Limpar o float, com a propriedade clear do CSS</ul>
+      <ul>Medidas proporcionais com CSS</ul>
+
+   <h1>Atualizações do dia 2022.07.19 </h1>
+      <ul>Adicionei uma classe para o input submit</ul>
+      <ul>Estilize o botão</ul>
+      <ul>Estilizei também quando o usuário passar o mouse por cima do botão</ul>
+      <ul>Criei e estilizei a tabela de horarios de funcionamento</ul>
+
    <h1>Atualizações do dia 2022.07.14 </h1>
       <ul>Atualização do codigo</ul>
       <ul>Acessibilidade do formulario</ul>
-      <ul></ul>
 
    <h1>Atualizações do dia 2022.07.05 </h1>
       <ul>Criação da pagina contato</ul>
