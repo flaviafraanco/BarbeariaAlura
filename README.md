@@ -1,3 +1,8 @@
+   <h1>Atualizações do dia 2022.07.21</h1>
+      <ul>Adicionando fonte externa</ul>
+      <ul>Adicionando mapa</ul>
+      <ul>Incorporar video a pagina</ul>
+
    <h1>Atualizações do dia 2022.07.20</h1>
       <ul>Aplicando conhecimentos na pagina inicial</ul>
       <ul>flutuação dos elementos e como modificá-la, com a propriedade float do CSS</ul>
