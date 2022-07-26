@@ -1,3 +1,13 @@
+   <h1>Atualizações do dia 2022.07.25</h1>
+      <ul>Psedo-elementos</ul>
+      <ul>Seletores avançados</ul>
+      <ul>Calculo com CSS</ul>
+      <ul>Opacidade nos elementos</ul>
+      <ul>Sombra nos elementos</ul>
+      <ul>Design responsivo</ul>
+      <ul>Finalizando projeto</ul>
+     
+
    <h1>Atualizações do dia 2022.07.21</h1>
       <ul>Adicionando fonte externa</ul>
       <ul>Adicionando mapa</ul>
